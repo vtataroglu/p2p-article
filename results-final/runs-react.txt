@@ -1,0 +1,10 @@
+one results-final/rev reactive 1 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 2 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 3 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 4 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 5 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 6 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 7 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 8 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 9 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
+one results-final/rev reactive 10 100 0 0 0 5.0 2 0.02 0.2 10000 6.0 0 0 1 0 0 0 7 0 160 1.0 0 0 1
