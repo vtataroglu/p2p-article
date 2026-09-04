@@ -148,6 +148,25 @@ The aggregation script uses two-sided Student-t 95% confidence intervals for
 reported means and retains the pooled Wilson calculations used for saturated
 binomial outcomes.
 
+## License and citation
+
+The author's original software contributions in `ScalableP2P/`, `SimRunner/`,
+`analysis/`, and the build files are offered under the [MIT License](LICENSE).
+Redistributed copies or substantial portions must retain the copyright and
+license notice. Third-party components, if any, retain their original terms;
+this grant does not relicense material owned by others.
+
+The experimental outputs in `results-final/` and Markdown documentation are
+licensed under [CC BY 4.0](DATA_LICENSE.md). Reuse requires appropriate credit,
+a license link, and an indication of changes, as specified by that license.
+Both licenses permit commercial use.
+
+For academic use, please cite this package and the accompanying manuscript,
+and identify the commit used. Citation metadata is supplied in
+[`CITATION.cff`](CITATION.cff). The manuscript title and author are listed above;
+no journal publication or DOI is claimed here. The academic citation request
+does not add a restriction to the MIT License.
+
 ## Contact
 
 Vasfi Tataroglu  

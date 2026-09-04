@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or its experimental data in research, please cite this reproducibility package and the accompanying manuscript. Include the commit identifier used."
+type: software
+title: "Improving Emerging-Content Discovery in Unstructured Peer-to-Peer Networks through Local Trend-Triggered Link Acquisition: Reproducibility Package"
+authors:
+  - family-names: Tataroglu
+    given-names: Vasfi
+    orcid: "https://orcid.org/0009-0000-9907-6619"
+repository-code: "https://github.com/vtataroglu/p2p-article"
+url: "https://github.com/vtataroglu/p2p-article"
